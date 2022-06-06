@@ -13,6 +13,6 @@ def bir_atk(exm):
 
 
 if __name__ == '__main__':
-    example = 16    # 此处进行前16bit的碰撞以作演示
+    example = 16    # 此处进行前16bit的碰撞以作演示，实际可找到更多位数
     col, m1, m2 = bir_atk(example)
     print("找到碰撞，消息{}与{}哈希值的前{}bit相同，16进制表示为:{}。".format(m1, m2, example, col))
