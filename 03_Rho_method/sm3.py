@@ -45,7 +45,10 @@ def Fill(message):
     l = len(m)
     l_bin = '0' * (64 - len(bin(l)[2:])) + bin(l)[2:]
     m = m + '1'
-    m = m + '0' * (448 - len(m) % 512) + l_bin
+    if len(m) % 512 > 448:
+        m = m + '0' * (512 - len(m) % 512 + 448) + l_bin
+    else:
+        m = m + '0' * (448 - len(m) % 512) + l_bin
     m = hex(int(m, 2))[2:]
     return m
 
