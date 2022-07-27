@@ -9,7 +9,7 @@
 SM3加密方案实现参考：https://www.cnblogs.com/20135319zl/p/6366129.html
 
 SIMD程序指令优化参考GmSSL，在GmSSL中将消息扩展的一**部分**用SIMD指令实现：
-![gmssl_simd.png](https://github.com/zhong-h/Creatqz/blob/main/01_optimize_SM3/gmssl_simd.png)
+![gmssl_simd.png](https://github.com/zhong-h/Creatqz/blob/main/image/01_optimize_SM3/gmssl_simd.png)
 
 在该项目中我使用SIMD实现了**全部**的消息扩展。
 
@@ -27,8 +27,9 @@ SIMD程序指令优化参考GmSSL，在GmSSL中将消息扩展的一**部分**�
 
 Debug模式：
 
-![debug_res.png](https://github.com/zhong-h/Creatqz/blob/main/01_optimize_SM3/debug_res.png)
+![debug_res.png](https://github.com/zhong-h/Creatqz/blob/main/image/01_optimize_SM3/debug_res.png)
+
 
 Release模式：
 
-![release_res.png](https://github.com/zhong-h/Creatqz/blob/main/01_optimize_SM3/release_res.png)
+![release_res.png](https://github.com/zhong-h/Creatqz/blob/main/image/01_optimize_SM3/release_res.png)
