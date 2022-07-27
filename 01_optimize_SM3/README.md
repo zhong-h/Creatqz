@@ -10,7 +10,7 @@ SM3加密方案实现参考：https://www.cnblogs.com/20135319zl/p/6366129.html
 
 SIMD程序指令优化参考GmSSL，在GmSSL中将消息扩展的一**部分**用SIMD指令实现：
 
-<img src="C:\Users\zhongh\AppData\Roaming\Typora\typora-user-images\image-20220727090504716.png" alt="image-20220727090504716" style="zoom:67%;" />
+<img src="01_optimize_SM3/gmssl_simd.png" alt="gmssl_simd.png" style="zoom:67%;" />
 
 在该项目中我使用SIMD实现了**全部**的消息扩展。
 
