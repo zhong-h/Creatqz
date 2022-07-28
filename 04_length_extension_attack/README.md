@@ -22,5 +22,5 @@ len_exten_atk.py与sm3.py放到同一级目录下，直接运行
 
 代码会自动计算出添加扩展内容后的新消息，并计算出其哈希值与长度扩展攻击得到的结果进行对比，以验证长度扩展攻击是否成功。
 
-![len_exten_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/04_extension_attack/len_exten_atk.png)
+![len_exten_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/04_length_extension_attack/len_exten_atk.png)
 
