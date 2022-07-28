@@ -22,5 +22,7 @@ main.py与sm3.py放到同一级目录下，直接运行
 
 **C.代码运行过程截图**
 
+通过该方法找到了多个不同的碰撞
+
 ![rho_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/03_Rho_method/rho_atk.png)
 
