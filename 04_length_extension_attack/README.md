@@ -6,7 +6,7 @@
 
 对SM3进行长度扩展攻击，设已知消息$m$，其哈希值为$H(m)$，扩展部分为$ext$，则对其进行长度扩展攻击的原理如下图所示：
 
-![](C:\Users\zhongh\AppData\Roaming\Typora\typora-user-images\image-20220727164728682.png)
+![proof.png](https://github.com/zhong-h/Creatqz/blob/main/image/04_length_extension_attack/proof.png)
 
 按照该图进行代码实现即可实现对SM3的长度扩展攻击
 
