@@ -22,5 +22,5 @@ main.py与sm3.py放到同一级目录下，直接运行
 
 **C.代码运行过程截图**
 
-![bit_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/02_Rho_method/rho_atk.png)
+![rho_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/03_Rho_method/rho_atk.png)
 
