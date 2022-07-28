@@ -10,7 +10,7 @@
 
 若按照该方法找到一对相同的数据，则一定能够找到碰撞，其正确性证明如下：
 
-![proof.png](https://github.com/zhong-h/Creatqz/blob/main/image/03_Rho_attack/proof.png)
+![proof.png](https://github.com/zhong-h/Creatqz/blob/main/image/03_Rho_method/proof.png)
 
 SM3实现参考：https://blog.csdn.net/weixin_45688634/article/details/123292997
 
@@ -22,39 +22,5 @@ main.py与sm3.py放到同一级目录下，直接运行
 
 **C.代码运行过程截图**
 
-![bit_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/02_Rho_attack/rho_atk.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![bit_atk.png](https://github.com/zhong-h/Creatqz/blob/main/image/02_Rho_method/rho_atk.png)
 
