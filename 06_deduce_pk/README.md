@@ -29,5 +29,5 @@ $s=k^{-1}(e+dr)\Rightarrow s\cdot kG=eG+dG\cdot r\Rightarrow s\cdot kG-eG=Q\cdot
 
 该程序首先会对消息message=“SDUCyberspaceSecurity”进行签名，然后再根据消息和签名进行公钥恢复，并将恢复出的公钥与原公钥进行比对，判断是否成功恢复
 
-<img src="D:\a\创新创业实践\project\deduce public key\deduce_pk.png" alt="deduce_pk" style="zoom:67%;" />
+![deduce_pk.png](https://github.com/zhong-h/Creatqz/blob/main/image/06_deduce_pk/deduce_pk.png)
 
