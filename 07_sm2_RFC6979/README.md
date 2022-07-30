@@ -22,6 +22,6 @@ SM2公钥密码算法中有一步需要生成一个随机数k，在原本的SM2�
 
 **C.代码运行过程截图**
 
-![RFC6979.png](https://github.com/zhong-h/Creatqz/blob/main/image/07_m2_RFC6979/RFC6979.png)
+![RFC6979.png](https://github.com/zhong-h/Creatqz/blob/main/image/07_sm2_RFC6979/RFC6979.png)
 
 
